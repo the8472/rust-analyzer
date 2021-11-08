@@ -31,3 +31,4 @@ debug = 0
 # ungrammar = { path = "../ungrammar" }
 
 # salsa = { path = "../salsa" }
+smallvec = { git = "https://github.com/the8472/rust-smallvec.git", branch = "delegate-vec-extend-from" }
